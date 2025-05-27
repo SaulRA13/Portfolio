@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "RideBus",
         description: "I was DevOps, feeding all information to Ride users through GTFS and connecting with the operations team.",
-        image: "/projects/project1.png",
+        image: "./projects/project1.png",
         tags: ["GTFS","HTML", "CSS", "JavaScript"],
         demoUrl: "hhttps://ridebus.ualabee.com/",
         githubUrl: "https://github.com/SaulRA13/PublicGTFS"
@@ -14,7 +14,7 @@ const projects = [
         id: 2,
         title: "Optician Tools",
         description: "I created some tools on request for an optician with several branches, for example this inventory.",
-        image: "/projects/project2.png",
+        image: "./projects/project2.png",
         tags: ["C#", ".NET"],
         demoUrl: "#github",
         githubUrl: "https://github.com/SaulRA13/Inventory.net"
@@ -23,7 +23,7 @@ const projects = [
         id: 3,
         title: "Tools for production lines",
         description: "Within my developments in companies, I created a variety of tools for the user, for example this one that is public that I made in a Hackathon",
-        image: "/projects/project3.png",
+        image: "./projects/project3.png",
         tags: ["C#", ".NET", "Razor", "SQL"],
         demoUrl: "https://example.com/demo",
         githubUrl: "https://github.com/SaulRA13/ProductionKanban"

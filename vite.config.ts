@@ -11,4 +11,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base: "https://saulra13.github.io/Portfolio/",
 })
